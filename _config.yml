@@ -40,3 +40,6 @@ defaults:
       type: post
     values:
       tags: Other
+
+url: 'https://cendekiaaa.github.io/'
+baseurl: 'cendekiaaa.github.io/'
