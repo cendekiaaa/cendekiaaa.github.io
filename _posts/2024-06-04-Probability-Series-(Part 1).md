@@ -4,7 +4,7 @@ Halo. Pada tulisan saya kali ini, saya akan berbagi mengenai beberapa catatan sa
 
 The main reason i'm blogging this is simple. I came across the Deep Unsupervised Learning course, conducted by Pieter Abbeel team, and in the first lecture, I got intimidated by this scary math notation wkwkwk.
 
-![Snippet of the Lecture](../assets/Lecture-Snippet.png)
+<img src="{{ "/assets/Lecture-Snippet.png" | prepend: site.baseurl | prepend: site.url}}" alt="Lecture-Snippet" /> 
 
 Dari cuplikan *lecture* di atas, ada beberapa konsep yang penting untuk dipahami: 
 * *Probability Distribution*
