@@ -18,7 +18,7 @@ Pada post kali ini, kita akan membahas tentang *Probability Distribution*
 
 Bayangkan ketika kita mengukur tinggi badan banyak orang. Proses pengukuran ini bisa kita visualisasikan sebagai berikut.
 
-![Pengukuran Tinggi Badan](../assets/Picture1.png)
+![Pengukuran Tinggi Badan](https://raw.githubusercontent.com/cendekiaaa/cendekiaaa.github.io/main/assets/Picture1.png)
 
 
 
