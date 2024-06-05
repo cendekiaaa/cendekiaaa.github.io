@@ -4,7 +4,7 @@ Halo. Pada tulisan saya kali ini, saya akan berbagi mengenai beberapa catatan sa
 
 The main reason i'm blogging this is simple. I came across the Deep Unsupervised Learning course, conducted by Pieter Abbeel team, and in the first lecture, I got intimidated by this scary math notation wkwkwk.
 
-![Pengukuran Tinggi Badan](assets/Lecture-Snippet.png) 
+![Pengukuran Tinggi Badan](../assets/Lecture-Snippet.png) 
 
 Dari cuplikan *lecture* di atas, ada beberapa konsep yang penting untuk dipahami: 
 * *Probability Distribution*
