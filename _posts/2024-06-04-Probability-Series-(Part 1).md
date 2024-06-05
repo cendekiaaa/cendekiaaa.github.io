@@ -9,7 +9,7 @@ The main reason i'm blogging this is simple. I came across the Deep Unsupervised
 "*Given a dataset* $\mathbf{x^{(1)}},...,\mathbf{x^{(n)}}$, *find* $\theta$ *by solving the optimization problem*"
 
 ```math
-\arg \min_{\theta} loss(\theta, \mathbf{x^{(1)}},...,\mathbf{x^{(n)}}) = \left \frac{1}{n} \sum_{i=1}^n - \log{p_{\theta}(\mathbf{x}^({i}))}
+\argmin_{\theta} \mathcal{L}(\theta, \mathbf{x}^{(1)}, \dots, \mathbf{x}^{(n)}) = \frac{1}{n} \sum_{i=1}^n -\log p_{\theta}(\mathbf{x}^i)
 ```
 
 Dari cuplikan *lecture* di atas, ada beberapa konsep yang penting untuk dipahami: 
