@@ -1,5 +1,6 @@
 # Probability Part 1 (Motivation, Counting Methods, Basic Principles)
 All credits belong to Dr. Karthik Nandakumar & Dr. Huan Xiong
+
 ## Why do we study probability theory?
 We live in a world full of uncertainty. Yet, we still have to decide those uncertainties. For example, when COVID-19 hit the world during 2019-2022, we had to decide whether to take a vaccine. Given the statistical facts of several vaccines, how can we ensure that the vaccine is really effective or not? In this high-stakes situation, managing risk is really important because it involves our single and precious life.
 
@@ -25,13 +26,13 @@ Random experiment is the act of measuring a process **whose outcome is uncertain
 ## Probability Model
 Before we define the probability model, let's go deeper into what **Sample Space**, **Event**, and **Probability Measure** are.
 
-### Sample Space \(S\)
+### Sample Space $$S$$
 Sample space is a set of all possible outcomes of an experiment. A sample space is discrete if it has a finite or countably infinite number of outcomes.
 
-Finite (set) of outcome: throwing a dice --> \(S = {1,2,3,4,5,6}\)
+Finite (set) of outcome: throwing a dice --> $$S = {1,2,3,4,5,6}$$
 Countably infinite: the set of all natural numbers (it is infinite, but we can count it)
 
-### Event \(A\)
+### Event $A$
 Event is a subset of the sample space - an event A is said to occur if the outcome of an experiment is a member of $`A`$. 
 
 Example: Throwing a dice, got a number more than 5. Here, the sample space is \({1,2,3,4,5,6}\) and the event is \({6}\)
