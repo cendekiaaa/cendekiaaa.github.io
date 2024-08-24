@@ -25,7 +25,7 @@ Random experiment is the act of measuring a process **whose outcome is uncertain
 ## Probability Model
 Before we define the probability model, let's go deeper into what **Sample Space**, **Event**, and **Probability Measure** are.
 
-### Sample Space $`S`$
+### Sample Space \(S\)
 Sample space is a set of all possible outcomes of an experiment. A sample space is discrete if it has a finite or countably infinite number of outcomes.
 
 Finite (set) of outcome: throwing a dice -> $`S = {1,2,3,4,5,6}`$
